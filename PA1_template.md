@@ -4,7 +4,7 @@ Set up paths to be compatible
 
 ```r
 # May want to set your working directory
-setwd("C:/MyProjects/Coursera_R/ReproducibleResearch")
+#setwd("C:/MyProjects/Coursera_R/ReproducibleResearch")
 
 library(knitr)
 opts_chunk$set(fig.path = "./figures/")
